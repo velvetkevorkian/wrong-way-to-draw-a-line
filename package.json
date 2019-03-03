@@ -2,7 +2,7 @@
   "name": "wrong-way-to-draw-a-line",
   "version": "0.0.1",
   "dependencies": {
-    "@velvetkevorkian/sketch-boilerplate-p5": "0.0.2"
+    "@velvetkevorkian/sketch-boilerplate-p5": "0.0.3"
   },
   "scripts": {
     "build": "webpack --env production",
