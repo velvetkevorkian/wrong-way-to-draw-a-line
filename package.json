@@ -1,9 +1,10 @@
 {
-  "name": "wrong-way-to-draw-a-line",
+  "name": "@velvetkevorkian/wrong-way-to-draw-a-line",
   "version": "0.0.1",
   "dependencies": {
     "@velvetkevorkian/sketch-boilerplate-p5": "0.0.3"
   },
+  "main": "src/index.js",
   "scripts": {
     "build": "webpack --env production",
     "start": "webpack-dev-server --env development",
