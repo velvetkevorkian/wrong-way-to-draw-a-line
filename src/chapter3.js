@@ -1,7 +1,7 @@
 import p5 from 'p5'
 import UI from '@velvetkevorkian/sketch-ui'
 import { hexToHSL, colorToHex, colorFromObject, blendModes, shapeTypes } from '@velvetkevorkian/sketch-utils'
-import '@velvetkevorkian/sketch-ui/src/ui.css'
+//import '@velvetkevorkian/sketch-ui/src/ui.css'
 
 export default new p5(p => {
   let HSLStroke, ui, pauseCallbacks = false
